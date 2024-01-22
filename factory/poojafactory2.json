@@ -1,0 +1,9 @@
+{
+	"name": "poojafactory2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5f8c8def-8668-4597-ba84-cba3a25d8b19",
+		"tenantId": "ff00942c-81e2-4530-b90f-4e7d35c20644"
+	}
+}
